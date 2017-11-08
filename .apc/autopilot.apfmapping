@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="main.c" path="C:\Users\takuya\SkyDrive\main.c"/>
+    <originFiles name="fib.c" path="C:\Users\takuya\SkyDrive\fib.c"/>
+  </source>
+  <testbench>
+    <originFiles name="main.c" path="C:\Users\takuya\SkyDrive\main.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

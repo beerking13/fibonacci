@@ -1,0 +1,4 @@
+vhdl xil_defaultlib "AESL_sim_pkg.vhd"
+vhdl xil_defaultlib "fibonacci.autotb.vhd"
+vhdl xil_defaultlib "fibonacci.vhd"
+

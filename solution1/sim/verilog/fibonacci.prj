@@ -1,3 +1,0 @@
-sv xil_defaultlib "fibonacci.autotb.v"
-sv xil_defaultlib "fibonacci.v"
-

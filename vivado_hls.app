@@ -11,6 +11,6 @@
   <includePaths/>
   <libraryPaths/>
   <Simulation>
-    <SimFlow name="csim"/>
+    <SimFlow name="csim" clean="true" csimMode="0" lastCsimMode="2"/>
   </Simulation>
 </project>

@@ -12,7 +12,7 @@ open_solution "solution1"
 set_part {xa7z010clg400-1q} -tool vivado
 create_clock -period 10 -name default
 #source "./fibonacci/solution1/directives.tcl"
-csim_design
+csim_design -clean
 csynth_design
 cosim_design -rtl vhdl
 export_design -format ip_catalog
